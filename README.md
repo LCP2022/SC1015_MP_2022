@@ -2,7 +2,7 @@
 
 ## About
   > This is a Miniproject for SC1015 (introduction to Data Science and Artificial Intelligence)
-    which focuses on predicting [Heart dieasese from the Dataset on Kaggle] 
+    which focuses on predicting [Heart failure from the Dataset on Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
     
     
 ## Probelm Definition
