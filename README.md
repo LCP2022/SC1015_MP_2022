@@ -3,7 +3,7 @@
 ## About
   > This is a Miniproject for SC1015 (introduction to Data Science and Artificial Intelligence)
     which focuses on predicting [Heart failure from the Dataset on Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)  
-      
+ >     
  > - For more detail you can look at the video [SC1015 video.mp4]  
  > - Information Finding you can look at [Final_Dataset.ipynb]  
     
